@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "74d29319559a4c204ead20d20544d7cba6b274809abee926c411f8a38a185ca4"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
@@ -141,11 +145,6 @@ hash = "689ddf2293756df17ff80a4ed9ff181419f1f3fdfd450036f31e717db15e9447"
 metafile = true
 
 [[files]]
-file = "mods/dynamic_asset_generator.pw.toml"
-hash = "167286b55d19c6b3c76c7396c8fd7fbe49f68b71eb7d28336d2539419f580a1e"
-metafile = true
-
-[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "d5703dbab81221abd81236f249b3f6256101debee1bea643bf0e20835193fce2"
 metafile = true
@@ -278,11 +277,6 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "f3f813f6475844b7a80be440f357f0b965f692fc0e63d9382766e6c456c5de84"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
 metafile = true
 
 [[files]]
